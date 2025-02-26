@@ -5,13 +5,13 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 -->
 
-!(https://github-readme-stats.vercel.app/api?username=jiyucat&show_icons=true&theme=swift)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyucat&show_icons=true&theme=swift)
 
 <!--스탯 추가하는 법
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
 -->
 
-!(https://github-readme-stats.vercel.app/api/top-langs/?username=jiyucat&layout=compact&theme=swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyucat&layout=compact&theme=swift)
 
 <!-- language 스탯 추가하는 법
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디&layout=레이아웃 스타일&theme=스타일)
